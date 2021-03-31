@@ -29,6 +29,7 @@
 
 GARBAGE COLLECTOR
 
+![GC](https://gblobscdn.gitbook.com/assets%2F-MMz4HvSYosxueog9mZy%2F-MX8YciQtINTrbnd8Txt%2F-MX8YtfKLKtCS2gof1MZ%2Fgc.jpg?alt=media&token=d3920982-f840-4fd3-81da-183173fc6001)
 * Garbage collector is the main different between .NET(c#,Java) and c,c++ code languages.It has numerous advantages for developer in terms of memory management.How?
 
 * For instance,you created an immutable string value and as i mentioned before it went to stack part of RAM and can not be changeable.
